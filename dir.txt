@@ -1,0 +1,165 @@
+No bloco <head> do site, adicione todas as tags de SEO abaixo 
+sem alterar nenhuma palavra do conteúdo visível da página.
+
+Substitua ou complemente as meta tags existentes por estas:
+
+<!-- PRIMARY META SEO -->
+<meta name="title" content="Renda Recorrente e Atemporal em Dólar | Curso KDP Brasil | Guilherme Miranda">
+<meta name="description" content="Aprenda a publicar livros na Amazon com IA e ganhar em dólar todo mês. Método validado por autor real com 15+ títulos publicados em 5 idiomas. Acesso imediato.">
+<meta name="keywords" content="publicar livros na amazon, curso kdp brasil, renda em dolar, como ganhar dinheiro com livros na amazon, kindle direct publishing, escrever livro com ia, renda passiva livros digitais, amazon kdp portugues, como publicar ebook na amazon, guilherme miranda, renda extra dolar brasileiros, kindle unlimited royalties, criar livro com chatgpt, publicar livro sem escrever, nicho lucrativo amazon kdp, negocio digital sem aparecer, renda atemporal, empreendedorismo digital iniciantes, como criar capa livro ia, amazon kdp vale a pena 2025">
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+<meta name="googlebot" content="index, follow">
+<meta name="language" content="Portuguese">
+<meta name="revisit-after" content="7 days">
+<meta name="category" content="educação, empreendedorismo digital, renda passiva">
+<meta name="classification" content="curso online, publicação digital, amazon kdp">
+<link rel="canonical" href="https://SEU-DOMINIO.com/">
+
+<!-- OPEN GRAPH (Facebook, WhatsApp, LinkedIn) -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://SEU-DOMINIO.com/">
+<meta property="og:title" content="Renda Recorrente e Atemporal em Dólar | Guilherme Miranda">
+<meta property="og:description" content="Publique livros na Amazon com IA e ganhe em dólar todo mês. Método validado por autor com catálogo real em 5 idiomas. Sem precisar escrever, sem falar inglês.">
+<meta property="og:image" content="https://SEU-DOMINIO.com/og-image.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Guilherme Miranda — Curso Renda em Dólar com Livros na Amazon">
+<meta property="og:locale" content="pt_BR">
+<meta property="og:site_name" content="Guilherme Miranda — Renda Atemporal em Dólar">
+
+<!-- TWITTER CARD -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@GuiMirandaTech">
+<meta name="twitter:creator" content="@GuiMirandaTech">
+<meta name="twitter:title" content="Renda Recorrente e Atemporal em Dólar | Guilherme Miranda">
+<meta name="twitter:description" content="Publique livros na Amazon com IA. Ganhe em dólar todo mês. Método validado com catálogo real em 5 idiomas.">
+<meta name="twitter:image" content="https://SEU-DOMINIO.com/og-image.jpg">
+<meta name="twitter:image:alt" content="Curso KDP Brasil — Guilherme Miranda">
+
+<!-- SCHEMA.ORG ESTRUTURADO — Course + Person + Offer -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Course",
+      "name": "Renda Recorrente e Atemporal em Dólar",
+      "description": "Método completo para publicar livros na Amazon com Inteligência Artificial e receber royalties em dólar todos os meses. Produção de texto com IA, criação de capas, SEO na Amazon e publicação em múltiplos idiomas.",
+      "url": "https://SEU-DOMINIO.com/",
+      "image": "https://SEU-DOMINIO.com/og-image.jpg",
+      "inLanguage": "pt-BR",
+      "provider": {
+        "@type": "Person",
+        "name": "Guilherme Miranda",
+        "url": "https://SEU-DOMINIO.com/",
+        "sameAs": [
+          "https://www.amazon.com.br/stores/author/B0DGDMZ4KC/allbooks",
+          "https://instagram.com/GuiMiranda.tech"
+        ]
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "197",
+        "priceCurrency": "BRL",
+        "availability": "https://schema.org/InStock",
+        "validFrom": "2025-01-01",
+        "category": "Curso Online"
+      },
+      "educationalLevel": "Beginner",
+      "teaches": [
+        "Publicação na Amazon KDP",
+        "Escrita com Inteligência Artificial",
+        "Criação de capas com IA",
+        "SEO na Amazon",
+        "Publicação em múltiplos idiomas",
+        "Monetização com Kindle Unlimited"
+      ],
+      "hasCourseInstance": {
+        "@type": "CourseInstance",
+        "courseMode": "online",
+        "courseWorkload": "PT10H",
+        "inLanguage": "pt-BR"
+      }
+    },
+    {
+      "@type": "Person",
+      "name": "Guilherme Miranda",
+      "jobTitle": "Autor e Produtor Editorial",
+      "description": "Autor com mais de 15 livros publicados na Amazon em 5 idiomas. Especialista em publicação digital com IA e geração de renda em dólar com Amazon KDP.",
+      "url": "https://SEU-DOMINIO.com/",
+      "email": "superaplicativos2022@gmail.com",
+      "sameAs": [
+        "https://www.amazon.com.br/stores/author/B0DGDMZ4KC/allbooks",
+        "https://instagram.com/GuiMiranda.tech"
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Eu não sei escrever. Posso publicar livros na Amazon com IA?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sim. Neste método você não escreve. A IA escreve. Você dirige o processo como produtor editorial — pesquisa o nicho, define a estrutura e publica."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Preciso falar inglês para publicar na Amazon e ganhar em dólar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Não. O curso ensina como usar IAs de tradução para publicar no mercado americano sem escrever uma frase em inglês manualmente."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quanto tempo leva para publicar o primeiro livro na Amazon?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Com o método ensinado no curso, é possível publicar o primeiro livro em dias — não em meses."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Amazon KDP ainda vale a pena em 2025?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sim. A Amazon tem mais de 300 milhões de clientes ativos. O Kindle Unlimited cresce a cada ano. O mercado de eBooks não para de expandir."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quanto se ganha publicando livros na Amazon?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Os royalties variam de acordo com o formato e precificação. No KDP você recebe entre 35% e 70% do preço de venda em dólar, depositado mensalmente."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "name": "Renda Recorrente e Atemporal em Dólar — Guilherme Miranda",
+      "description": "Curso completo de publicação na Amazon KDP com IA. Escreva livros com inteligência artificial, crie capas profissionais e ganhe royalties em dólar todo mês.",
+      "url": "https://SEU-DOMINIO.com/",
+      "inLanguage": "pt-BR",
+      "author": {
+        "@type": "Person",
+        "name": "Guilherme Miranda"
+      },
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://SEU-DOMINIO.com/"
+          }
+        ]
+      }
+    }
+  ]
+}
+</script>
